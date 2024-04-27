@@ -95,7 +95,7 @@ try {
 
 }
 try {
-    // console.log(letBlock); // There is an error in this line
+    console.log(letBlock); // There is an error in this line
 }catch(error){
 
     console.log("Error: letBlock is not accessible outside of the block");
